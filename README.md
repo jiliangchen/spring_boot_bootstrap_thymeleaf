@@ -1,9 +1,9 @@
 # spring_boot_bootstrap_thymeleaf
 sample base on spring boot,bootstrap and thymeleaf
 
-##need maven
+##maven
 
-##need spring boot
+##spring boot
 
 ##init the project lib by pom.xml
 
